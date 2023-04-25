@@ -2,10 +2,10 @@
 {
     public class Program
     {
-        //constants but for the symboles to match the equation properly, we let them lower case.
+        //constants but for the symbols to match the equation properly, we let them lower case.
         public const double p = 0.2316419, a1 = 0.3193815, a2 = -0.3565638, a3 = 1.781478, a4 = -1.821256, a5 = 1.330274,
             VERTICAL_PRECISION = 0.1, HORIZONTAL_PRECISION = 0.01, VERTICAL_RANGE = 3.4, HORIZONTAL_RANGE = 0.09;
-        //vertical range was choosen according to the Empirical Rule aka 3 segma rule 68-95-99.7 which
+        //vertical range was chosen according to the Empirical Rule aka 3 segma rule 68-95-99.7 which
         //is that -3.4->3.4 range covers (99.7%)
         const bool INCLUDE_NEGATIVE = false;
 
