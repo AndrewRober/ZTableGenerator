@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33617.297
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZTableGenerator", "ZTableGenerator\ZTableGenerator.csproj", "{518CB299-E1FB-4A59-99C0-82A3BF6C7A2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZTableArithmeticUnitTests", "ZTableArithmeticUnitTests\ZTableArithmeticUnitTests.csproj", "{C46078A2-0C17-4FF1-B754-0E5D2B385582}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{518CB299-E1FB-4A59-99C0-82A3BF6C7A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{518CB299-E1FB-4A59-99C0-82A3BF6C7A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{518CB299-E1FB-4A59-99C0-82A3BF6C7A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C46078A2-0C17-4FF1-B754-0E5D2B385582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46078A2-0C17-4FF1-B754-0E5D2B385582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46078A2-0C17-4FF1-B754-0E5D2B385582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46078A2-0C17-4FF1-B754-0E5D2B385582}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
