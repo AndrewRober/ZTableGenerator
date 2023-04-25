@@ -1,4 +1,4 @@
-#ZTable Generator 
+# ZTable Generator 
 
 This mini project was written to generate a ZTable using custom ranges and precision using a normal cumulative distribution function that gives the probability that a random variable X will take a value less than or equal to X where X is normally distributed, in other words to calculate the percentage area under a bell curve of a given Z score.
 
